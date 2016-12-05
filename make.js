@@ -8,6 +8,7 @@ b.task('clean', function() {
 b.task('assets', function() {
   b.css('./app/app.css', 'dist/app.css', { variables: true })
   b.copy('node_modules/font-awesome', './dist/font-awesome')
+  b.copy('node_modules/mathjax', './dist/mathjax')
 })
 
 // this optional task makes it easier to work on Substance core

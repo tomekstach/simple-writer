@@ -7,6 +7,7 @@ export default `
       <span data-type="comment" data-comment="A JavaScript library for web-based content editing">Substance</span>
       editor boilerplate example. Fork it, and create your own editor.
     </p>
+    <p>$$\\frac{n!}{k!(n-k)!} = \\binom{n}{k}$$</p>
     <p>You can find the source code on <a href="http://github.com/substance/starter">Github</a>.</p>
   </body>
 </html>
